@@ -1,0 +1,32 @@
+/* ID */
+#decide {
+    color: #445566;
+    font-size: 100%;
+}
+/* class*/
+.blue {
+    color:blue;
+    font-size: 100%;
+}
+.red {
+    color: #664444;
+    font-size: 100%;
+}
+.bluebox {
+    background-color: #664444;
+    color: white;
+    height: 100px;
+    width: auto;
+}
+.redbox {
+    background-color: #132513;
+    color: #662211;
+    height: 100px;
+    width: auto;
+}
+.greenbox {
+    background-color: #777777;
+    color: #656212;
+    height: 100px;
+    width: auto;
+}
